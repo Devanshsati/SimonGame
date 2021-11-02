@@ -55,9 +55,7 @@ function nextSequence() {
       $("#" + randomChosenColour).fadeIn(100).fadeOut(100).fadeIn(100);
       playSound(randomChosenColour);
     }, delay);
-
     delay += 1000;
-
   }
 }
 
