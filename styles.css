@@ -10,6 +10,16 @@ body {
   color: #FEF2BF;
 }
 
+button{
+  color: rgb(215 41 13);
+  background: #d9c223;
+  width: 13%;
+  height: 50px;
+  border-style: dashed;
+  font-size: medium;
+  font-weight: bold;
+}
+
 .container {
   display: block;
   width: 50%;
